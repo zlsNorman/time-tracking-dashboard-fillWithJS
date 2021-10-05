@@ -45,7 +45,7 @@ img{
     display: block;
 }
 main{
-    background-color: (--veryDarkBlue);
+    background-color: var(--veryDarkBlue);
     display: grid;
 }
 h1{
